@@ -1,8 +1,6 @@
 .eunit
 deps
 priv
-.idea
 *.o
 *.beam
 *.plt
-*.iml
